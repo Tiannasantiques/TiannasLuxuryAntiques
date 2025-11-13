@@ -26,7 +26,7 @@ export class MemStorage implements IStorage {
         period: "18th Century",
         origin: "France",
         category: "Clocks",
-        imageUrl: "/attached_assets/collectt_1763055734521.jpg",
+        imageUrl: "/assets/collectt_1763055734521.jpg",
       },
       {
         name: "French Empire Three-Piece Clock Garniture",
@@ -34,7 +34,7 @@ export class MemStorage implements IStorage {
         period: "19th Century",
         origin: "France",
         category: "Clock Sets",
-        imageUrl: "/attached_assets/collect_1763055734524.webp",
+        imageUrl: "/assets/collect_1763055734524.webp",
       },
       {
         name: "Grand Baroque Palace Decorative Ensemble",
@@ -42,7 +42,7 @@ export class MemStorage implements IStorage {
         period: "18th-19th Century",
         origin: "France",
         category: "Decorative Arts",
-        imageUrl: "/attached_assets/photo_2025-11-13_11-51-09_1763056285027.jpg",
+        imageUrl: "/assets/photo_2025-11-13_11-51-09_1763056285027.jpg",
       },
       {
         name: "Equestrian Bronze and Gilt Mantle Clock",
@@ -50,7 +50,7 @@ export class MemStorage implements IStorage {
         period: "Early 19th Century",
         origin: "France",
         category: "Clocks",
-        imageUrl: "/attached_assets/photo_2025-11-13_11-51-05_1763056285033.jpg",
+        imageUrl: "/assets/photo_2025-11-13_11-51-05_1763056285033.jpg",
       },
       {
         name: "Neoclassical Bronze Figural Candelabrum",
@@ -58,7 +58,7 @@ export class MemStorage implements IStorage {
         period: "19th Century",
         origin: "France",
         category: "Sculptures",
-        imageUrl: "/attached_assets/photo_2025-11-13_11-51-01_1763056285034.jpg",
+        imageUrl: "/assets/photo_2025-11-13_11-51-01_1763056285034.jpg",
       },
       {
         name: "Collection of French Bronze Figural Clocks",
@@ -66,7 +66,7 @@ export class MemStorage implements IStorage {
         period: "19th Century",
         origin: "France",
         category: "Collections",
-        imageUrl: "/attached_assets/photo_2025-11-13_11-51-33_1763056315828.jpg",
+        imageUrl: "/assets/photo_2025-11-13_11-51-33_1763056315828.jpg",
       },
       {
         name: "Sèvres-Style Porcelain and Gilt Bronze Garniture",
@@ -74,7 +74,7 @@ export class MemStorage implements IStorage {
         period: "Late 18th Century",
         origin: "France",
         category: "Clock Sets",
-        imageUrl: "/attached_assets/photo_2025-11-13_11-50-51_1763056315829.jpg",
+        imageUrl: "/assets/photo_2025-11-13_11-50-51_1763056315829.jpg",
       },
       {
         name: "Monumental Baroque Gilt Bronze Candelabra",
@@ -82,7 +82,7 @@ export class MemStorage implements IStorage {
         period: "18th Century",
         origin: "France",
         category: "Candelabra",
-        imageUrl: "/attached_assets/stock_images/ornate_french_baroqu_9335d9d4.jpg",
+        imageUrl: "/assets/stock_images/ornate_french_baroqu_9335d9d4.jpg",
       },
       {
         name: "Rococo Gilt Bronze Five-Light Candelabrum",
@@ -90,7 +90,7 @@ export class MemStorage implements IStorage {
         period: "Mid-18th Century",
         origin: "France",
         category: "Candelabra",
-        imageUrl: "/attached_assets/stock_images/ornate_french_baroqu_899971c7.jpg",
+        imageUrl: "/assets/stock_images/ornate_french_baroqu_899971c7.jpg",
       },
       {
         name: "Louis XV Gilt Bronze Wall Sconce Pair",
@@ -98,7 +98,7 @@ export class MemStorage implements IStorage {
         period: "18th Century",
         origin: "France",
         category: "Candelabra",
-        imageUrl: "/attached_assets/stock_images/ornate_french_baroqu_7912b289.jpg",
+        imageUrl: "/assets/stock_images/ornate_french_baroqu_7912b289.jpg",
       },
       {
         name: "Sèvres Cobalt Blue and Gold Decorative Urn",
@@ -106,7 +106,7 @@ export class MemStorage implements IStorage {
         period: "Late 18th Century",
         origin: "Sèvres, France",
         category: "Porcelain",
-        imageUrl: "/attached_assets/stock_images/elegant_18th_century_58adb694.jpg",
+        imageUrl: "/assets/stock_images/elegant_18th_century_58adb694.jpg",
       },
       {
         name: "Empire Style Malachite and Gilt Bronze Vase",
@@ -114,7 +114,7 @@ export class MemStorage implements IStorage {
         period: "Early 19th Century",
         origin: "France",
         category: "Vases",
-        imageUrl: "/attached_assets/stock_images/elegant_18th_century_7d70cb9b.jpg",
+        imageUrl: "/assets/stock_images/elegant_18th_century_7d70cb9b.jpg",
       },
       {
         name: "Neoclassical Patinated Bronze Figure",
@@ -122,7 +122,7 @@ export class MemStorage implements IStorage {
         period: "19th Century",
         origin: "France",
         category: "Sculptures",
-        imageUrl: "/attached_assets/stock_images/french_empire_bronze_ddd9e64e.jpg",
+        imageUrl: "/assets/stock_images/french_empire_bronze_ddd9e64e.jpg",
       },
       {
         name: "Grand Tour Bronze Sculpture Group",
@@ -130,7 +130,7 @@ export class MemStorage implements IStorage {
         period: "Mid-19th Century",
         origin: "France",
         category: "Sculptures",
-        imageUrl: "/attached_assets/stock_images/french_empire_bronze_54038da5.jpg",
+        imageUrl: "/assets/stock_images/french_empire_bronze_54038da5.jpg",
       },
       {
         name: "Louis XV Carved and Gilded Trumeau Mirror",
@@ -138,7 +138,7 @@ export class MemStorage implements IStorage {
         period: "18th Century",
         origin: "France",
         category: "Mirrors",
-        imageUrl: "/attached_assets/stock_images/rococo_ornate_mirror_7d85d7bb.jpg",
+        imageUrl: "/assets/stock_images/rococo_ornate_mirror_7d85d7bb.jpg",
       },
       {
         name: "Baroque Gilt Wood Console Mirror",
@@ -146,7 +146,7 @@ export class MemStorage implements IStorage {
         period: "Late 17th-Early 18th Century",
         origin: "France",
         category: "Mirrors",
-        imageUrl: "/attached_assets/stock_images/rococo_ornate_mirror_69b44905.jpg",
+        imageUrl: "/assets/stock_images/rococo_ornate_mirror_69b44905.jpg",
       },
     ];
 
