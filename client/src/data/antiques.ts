@@ -1,22 +1,22 @@
 import { Antique } from "@shared/schema";
 
-import clockImage1 from "@assets/collectt_1763055734521.jpg";
-import clockSet from "@assets/collect_1763055734524.webp";
-import largeDisplay from "@assets/photo_2025-11-13_11-51-09_1763056285027.jpg";
-import equestrianClock from "@assets/photo_2025-11-13_11-51-05_1763056285033.jpg";
-import bronzeSculpture from "@assets/photo_2025-11-13_11-51-01_1763056285034.jpg";
-import bronzeCollection from "@assets/photo_2025-11-13_11-51-33_1763056315828.jpg";
-import porcelainSet from "@assets/photo_2025-11-13_11-50-51_1763056315829.jpg";
+const clockImage1 = "/assets/collectt_1763055734521.jpg";
+const clockSet = "/assets/collect_1763055734524.webp";
+const largeDisplay = "/assets/photo_2025-11-13_11-51-09_1763056285027.jpg";
+const equestrianClock = "/assets/photo_2025-11-13_11-51-05_1763056285033.jpg";
+const bronzeSculpture = "/assets/photo_2025-11-13_11-51-01_1763056285034.jpg";
+const bronzeCollection = "/assets/photo_2025-11-13_11-51-33_1763056315828.jpg";
+const porcelainSet = "/assets/photo_2025-11-13_11-50-51_1763056315829.jpg";
 
-import candelabra1 from "@assets/stock_images/ornate_french_baroqu_9335d9d4.jpg";
-import candelabra2 from "@assets/stock_images/ornate_french_baroqu_899971c7.jpg";
-import candelabra3 from "@assets/stock_images/ornate_french_baroqu_7912b289.jpg";
-import vase1 from "@assets/stock_images/elegant_18th_century_58adb694.jpg";
-import vase2 from "@assets/stock_images/elegant_18th_century_7d70cb9b.jpg";
-import sculpture1 from "@assets/stock_images/french_empire_bronze_ddd9e64e.jpg";
-import sculpture2 from "@assets/stock_images/french_empire_bronze_54038da5.jpg";
-import mirror1 from "@assets/stock_images/rococo_ornate_mirror_7d85d7bb.jpg";
-import mirror2 from "@assets/stock_images/rococo_ornate_mirror_69b44905.jpg";
+const candelabra1 = "/assets/stock_images/ornate_french_baroqu_9335d9d4.jpg";
+const candelabra2 = "/assets/stock_images/ornate_french_baroqu_899971c7.jpg";
+const candelabra3 = "/assets/stock_images/ornate_french_baroqu_7912b289.jpg";
+const vase1 = "/assets/stock_images/elegant_18th_century_58adb694.jpg";
+const vase2 = "/assets/stock_images/elegant_18th_century_7d70cb9b.jpg";
+const sculpture1 = "/assets/stock_images/french_empire_bronze_ddd9e64e.jpg";
+const sculpture2 = "/assets/stock_images/french_empire_bronze_54038da5.jpg";
+const mirror1 = "/assets/stock_images/rococo_ornate_mirror_7d85d7bb.jpg";
+const mirror2 = "/assets/stock_images/rococo_ornate_mirror_69b44905.jpg";
 
 export const antiques: Antique[] = [
   {
