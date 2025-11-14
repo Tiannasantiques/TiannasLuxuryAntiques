@@ -13,13 +13,6 @@ export function AntiqueCard({ antique }: AntiqueCardProps) {
       data-testid={`card-antique-${antique.id}`}
     >
       <div className="relative overflow-hidden bg-muted aspect-[3/4]">
-        <img
-          src={antique.imageUrl}
-          alt={antique.name}
-          className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-          data-testid={`img-antique-${antique.id}`}
-          loading="lazy"
-        />
       </div>
       
       <CardContent className="p-6 flex-1 flex flex-col">
