@@ -12,9 +12,6 @@ export function AntiqueCard({ antique }: AntiqueCardProps) {
       className="group overflow-hidden hover-elevate transition-all duration-300 h-full flex flex-col" 
       data-testid={`card-antique-${antique.id}`}
     >
-      <div className="relative overflow-hidden bg-muted aspect-[3/4]">
-      </div>
-      
       <CardContent className="p-6 flex-1 flex flex-col">
         <div className="mb-3">
           <Badge variant="secondary" className="text-xs uppercase tracking-wider" data-testid={`badge-category-${antique.id}`}>
