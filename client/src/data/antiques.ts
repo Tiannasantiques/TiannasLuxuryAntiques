@@ -11,7 +11,6 @@ const porcelainSet = "/assets/photo_2025-11-13_11-50-51_1763056315829.jpg";
 const candelabra1 = "/assets/stock_images/ornate_french_baroqu_9335d9d4.jpg";
 const candelabra2 = "/assets/stock_images/ornate_french_baroqu_899971c7.jpg";
 const candelabra3 = "/assets/stock_images/ornate_french_baroqu_7912b289.jpg";
-const vase1 = "/assets/stock_images/elegant_18th_century_58adb694.jpg";
 const vase2 = "/assets/stock_images/elegant_18th_century_7d70cb9b.jpg";
 const sculpture1 = "/assets/stock_images/french_empire_bronze_ddd9e64e.jpg";
 const sculpture2 = "/assets/stock_images/french_empire_bronze_54038da5.jpg";
@@ -108,15 +107,6 @@ export const antiques: Antique[] = [
     origin: "France",
     category: "Candelabra",
     imageUrl: candelabra3,
-  },
-  {
-    id: "11",
-    name: "Sèvres Cobalt Blue and Gold Decorative Urn",
-    description: "Museum-quality porcelain urn in royal blue with hand-painted romantic scenes and lavish gilt bronze mounts. The exceptional painting and gilding mark this as a premier example of French luxury goods.",
-    period: "Late 18th Century",
-    origin: "Sèvres, France",
-    category: "Porcelain",
-    imageUrl: vase1,
   },
   {
     id: "12",

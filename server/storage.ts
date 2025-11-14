@@ -101,14 +101,6 @@ export class MemStorage implements IStorage {
         imageUrl: "/assets/stock_images/ornate_french_baroqu_7912b289.jpg",
       },
       {
-        name: "Royal Cobalt Blue and Gold Decorative Urn",
-        description: "Museum-quality porcelain urn in royal blue with hand-painted romantic scenes and lavish gilt bronze mounts. The exceptional painting and gilding mark this as a premier example of European luxury goods.",
-        period: "Late 18th Century",
-        origin: "France",
-        category: "Porcelain",
-        imageUrl: "/assets/stock_images/elegant_18th_century_58adb694.jpg",
-      },
-      {
         name: "Empire Style Malachite and Gilt Bronze Vase",
         description: "Striking decorative vase combining rich malachite veneer with sculptural gilt bronze handles and base. The bold color combination and neoclassical form exemplify Empire period taste.",
         period: "Early 19th Century",
