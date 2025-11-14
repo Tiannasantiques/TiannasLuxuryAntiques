@@ -1,7 +1,7 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Globe2, Award, Building2, Mail, Phone } from "lucide-react";
-import ceoImage from "@assets/cooooooo_1763055873097.jpg";
+import ceoImage from "@assets/photo_2025-11-13_19-48-36_1763084928677.jpg";
 
 export function CEOProfile() {
   const countries = ["Canada", "Singapore", "USA", "Italy", "France", "Monaco"];
