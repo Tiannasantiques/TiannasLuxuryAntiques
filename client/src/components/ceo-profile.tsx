@@ -113,7 +113,7 @@ export function CEOProfile() {
                 />
               </div>
               <div className="p-4 text-center">
-                <h3 className="font-serif text-2xl font-semibold text-foreground mb-1">Tianna</h3>
+                <h3 className="font-serif text-2xl font-semibold text-foreground mb-1">Michelle Tianna</h3>
                 <p className="text-muted-foreground text-sm uppercase tracking-wider">Founder & CEO</p>
               </div>
             </Card>
